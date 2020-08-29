@@ -1,6 +1,6 @@
 # veggie-mate
 A web app that helps you waste less food!
-Enter any foods you want to check and you'll instantly get a list of how long they last.
+Enter any food you want to check and you'll instantly get a list of how long they last.
 
 Coming Soon:
 - More items
